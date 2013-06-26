@@ -1,0 +1,7 @@
+<resources>
+
+   <image id="R_PRECISION_TARGET_720x1280"  resource="images/PrecisionTarget_720x1280.png"/>
+   <image id="R_DUELING_TARGET_720x1200"  	resource="images/DuelingTarget_720x1280.png"/>
+   <image id="R_HELP"  	resource="images/Help.png"/>
+   
+</resources>

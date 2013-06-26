@@ -1,0 +1,24 @@
+<resources>
+
+	<media id="R_PING" resource="sounds/ping.wav"/>
+	<media id="R_WATERDROP" resource="sounds/WaterDrop.wav"/>
+	
+    <image id="R_BACKGROUND_320x480"  resource="images/Canvas-320x480.png"/>
+    <image id="R_BACKGROUND_720x1280" resource="images/Canvas-720x1280.png"/>
+
+	<image id="R_BULLETHOLE_320x480" resource="images/BulletHole-320x480.png"/>
+	<image id="R_BULLETHOLE_720x1280" resource="images/BulletHole-720x1280.png"/>
+
+	<image id="R_GREEN_LIGHT_ON" resource="images/GreenLightOn.png"/>
+	<image id="R_LIGHT_OFF" resource="images/LightOff.png"/>
+	<image id="R_RED_LIGHT_ON" resource="images/RedLightOn.png"/>
+
+	<image id="R_BUTTON_START" resource="images/Button_Start.png"/>
+	<image id="R_BUTTON_STOP" resource="images/Button_Stop.png"/>
+	<image id="R_BUTTON_TRAINING_ON" resource="images/Button_Training_On.png"/>
+	
+	<binary id="RES_FONT" resource="resources/Font.mof"/>
+	<binary id="RES_FONT_BIG" resource="resources/win7MAUI.mof"/>
+		
+
+</resources>
